@@ -1,0 +1,4 @@
+﻿  Question2.c
+C:\Users\siwon\source\repos\PointerQuestions\PointerQuestions\Question2.c(9,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+C:\Users\siwon\source\repos\PointerQuestions\PointerQuestions\Question2.c(5,10): warning C4133: '초기화 중': 'int *'과(와) 'double *' 사이의 형식이 호환되지 않습니다.
+  PointerQuestion2.vcxproj -> C:\Users\siwon\source\repos\PointerQuestions\x64\Debug\PointerQuestion2.exe
